@@ -1,0 +1,6 @@
+Algorithm,Clusters,Noise,Silhouette,Davies-Bouldin,Calinski-Harabasz,Verdict
+K-Means (k=3),3,0 %,0.265,1.433,124.6,Selected
+GMM (3 comp.),3,0 %,0.265,1.433,124.6,Same partition as K-Means
+Hierarchical (k=3),3,0 %,0.245,1.645,114.9,Different partition
+DBSCAN,5,8.5 %,0.298,1.31,100.7,Driven by 'Unknown' flags
+OPTICS,4,89.5 %,0.651,0.599,50.5,Unusable: most points noise

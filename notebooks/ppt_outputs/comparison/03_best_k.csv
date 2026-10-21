@@ -1,0 +1,4 @@
+Algorithm,Best k (Silhouette),Best k (Davies-Bouldin),Best k (Calinski-Harabasz)
+K-Means,2,4,3
+Hierarchical,2,2,2
+GMM,2,4,3

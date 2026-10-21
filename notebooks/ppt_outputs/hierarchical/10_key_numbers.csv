@@ -1,0 +1,8 @@
+Item,Value
+Linkage / distance,Ward / Euclidean
+Clusters,3
+Merge height of the cut,36.62
+Silhouette,0.245
+Davies-Bouldin,1.645
+Calinski-Harabasz,114.87
+ARI vs K-Means,0.738

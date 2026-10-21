@@ -1,0 +1,8 @@
+Item,Value
+Components,3
+Covariance type,full
+Converged / iterations,True / 2
+Mixture weights,"0.120, 0.310, 0.570"
+Silhouette,0.265
+Davies-Bouldin,1.433
+Calinski-Harabasz,124.62

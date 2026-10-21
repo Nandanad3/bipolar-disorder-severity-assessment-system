@@ -1,0 +1,3 @@
+Evaluation set,Silhouette,Davies-Bouldin,Calinski-Harabasz
+Clustered points only (n=313),0.29818050401425056,1.3097045562871203,100.74783404207972
+"All points, noise re-assigned (n=342)",0.2758189740045266,1.384889676778308,95.98559121349167

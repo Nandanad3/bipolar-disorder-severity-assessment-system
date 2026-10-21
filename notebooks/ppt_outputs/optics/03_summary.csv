@@ -1,0 +1,8 @@
+Item,Value
+Features used,23
+Clusters found,4
+Patients clustered,36 (10.5%)
+Patients labelled noise,306 (89.5%)
+Silhouette (clustered only),0.651
+Davies-Bouldin (clustered only),0.599
+Calinski-Harabasz (clustered only),50.51
